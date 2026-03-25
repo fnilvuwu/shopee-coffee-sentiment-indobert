@@ -98,7 +98,7 @@ def compute_ranking_view(data: pd.DataFrame) -> pd.DataFrame:
 
 
 def main():
-    st.set_page_config(page_title="Shopee Review Intelligence", layout="wide")
+    st.set_page_config(page_title="Shopee Coffee Shop Sentiment Analysis IndoBERT", layout="wide")
     st.title("Shopee Product Review Dashboard")
     st.caption("EDA + Sentiment + Business Insights")
 
