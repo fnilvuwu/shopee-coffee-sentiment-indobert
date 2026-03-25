@@ -1,0 +1,2 @@
+model_id=mdhugol/indonesia-bert-sentiment-classification
+model_dir=D:\Scraping Shopee Review\project\models\indonesian_sentiment_mdhugol
